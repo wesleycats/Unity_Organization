@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 30c39d92d19906b4cbe4ca6325b1321a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bone_boxCenter
+    100002: bone_boxScale
+    100004: bone_FX
+    100006: bone_lid
+    100008: bone_lidDeco
+    100010: bone_lidScale
+    100012: Bow_C
+    100014: boxCenter_cntrl
+    100016: boxlid_cntrl
+    100018: boxScale_cntrl
+    100020: lidDeco_cntrl
+    100022: lidScale_cntrl
+    100024: logo_plane
+    100026: lower_cntrl
+    100028: lower_extra_joint
+    100030: Present_A
+    100032: //RootNode
+    100034: root
+    100036: screen
+    100038: screen_joint
+    100040: transform1
+    100042: transform2
+    100044: transform3
+    100046: upper_cntrl
+    100048: upper_extra_joint
+    400000: bone_boxCenter
+    400002: bone_boxScale
+    400004: bone_FX
+    400006: bone_lid
+    400008: bone_lidDeco
+    400010: bone_lidScale
+    400012: Bow_C
+    400014: boxCenter_cntrl
+    400016: boxlid_cntrl
+    400018: boxScale_cntrl
+    400020: lidDeco_cntrl
+    400022: lidScale_cntrl
+    400024: logo_plane
+    400026: lower_cntrl
+    400028: lower_extra_joint
+    400030: Present_A
+    400032: //RootNode
+    400034: root
+    400036: screen
+    400038: screen_joint
+    400040: transform1
+    400042: transform2
+    400044: transform3
+    400046: upper_cntrl
+    400048: upper_extra_joint
+    2100000: Present
+    2100002: Ruban
+    2100004: lambert3
+    2100006: ScreenBorder
+    2100008: ScreenDisplay
+    2300000: Bow_C
+    2300002: logo_plane
+    2300004: screen
+    3300000: Bow_C
+    3300002: logo_plane
+    3300004: screen
+    4300000: Present_A
+    4300002: Bow_C
+    4300004: logo_plane
+    4300006: screen
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Present_A
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
